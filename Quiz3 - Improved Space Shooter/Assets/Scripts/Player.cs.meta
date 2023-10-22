@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 5330a478707dc434eb52b83159e8a1ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bPre: {instanceID: 0}
+  - s1: {instanceID: 0}
+  - s2: {instanceID: 0}
+  - s3: {instanceID: 0}
+  - aSource: {instanceID: 0}
+  - shtSFX: {fileID: 8300000, guid: bf7658d4856e65341ab0ed1c3d79e654, type: 3}
+  - dmgSFX: {fileID: 8300000, guid: 5006cbec511617342badd248793b723b, type: 3}
+  - healSFX: {fileID: 8300000, guid: 04a0cff20e821974b85f0eb90caf3a29, type: 3}
+  - upgSFX: {fileID: 8300000, guid: 38f8903be99469346a112ba2a2c21ad3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
